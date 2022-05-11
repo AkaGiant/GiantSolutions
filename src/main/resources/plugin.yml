@@ -1,0 +1,4 @@
+name: GiantSolutions
+version: '${project.version}'
+main: me.akagiant.giantsolutions.Main
+api-version: 1.18
